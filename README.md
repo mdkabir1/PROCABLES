@@ -22,26 +22,6 @@ Several fundamental deep models may experience over-fitting and ensemble diversi
 
 ---
 
-## 🚀 Features
-
-- ✅ [Feature 1: Short explanation]  
-- ✅ [Feature 2: Short explanation]  
-- ✅ [Feature 3: Short explanation]  
-- ✅ [Feature 4: Short explanation]  
-
----
-
-## 🧠 Methodology
-
-[Describe your approach in more technical detail — e.g., models used, algorithms, or workflow.]
-
-Example outline:
-1. **Data preprocessing:** [describe steps]
-2. **Model design:** [describe model layers, architecture, etc.]
-3. **Training process:** [epochs, loss function, optimizer, etc.]
-4. **Evaluation:** [metrics, datasets used, etc.]
-
----
 
 ## ⚙️ Installation
 
@@ -49,7 +29,7 @@ Follow these steps to set up the environment and run the project:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/[username]/[repo-name].git
+git clone https://github.com/mdkabir1/PROCABLES.git
 cd [repo-name]
 
 # 2️⃣ Create and activate a virtual environment (optional)
