@@ -53,6 +53,20 @@ The PROCABLES model was implemented using:
 
 ---
 
+## 🔖 Publication
+
+This work has been published in *Methods (Elsevier)*, Volume 230, October 2024, Pages 119–128.
+
+📄 **Full reference:**
+> Aqsa Amjad, Saeed Ahmed, Muhammad Kabir, Muhammad Arif, Tanvir Alam (2024).  
+> *A novel deep learning identifier for promoters and their strength using heterogeneous features.*  
+> **Methods**, Volume 230, 119–128.  
+> [https://doi.org/10.1016/j.ymeth.2024.08.005](https://doi.org/10.1016/j.ymeth.2024.08.005)
+
+You can access the published article on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1046202324001853).
+
+---
+
 ## ⚙️ Installation
 
 Follow these steps to set up the environment and run the project:
